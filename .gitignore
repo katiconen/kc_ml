@@ -1,0 +1,6 @@
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore local configuration files containing secrets
+.env
+.env.local
