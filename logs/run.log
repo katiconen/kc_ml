@@ -1,0 +1,89 @@
+﻿# Tasks Used to Study Behavioral Economics Phenomena
+
+## 1. **Range Dependence & Framing Effects**
+
+### Certainty Equivalent Tasks
+- Participants assign equivalent values to risky and certain outcomes
+- Reveals how reference points shift valuations
+
+### Lottery Choice Tasks
+- Comparing identical gambles presented differently (e.g., gains vs. losses)
+- Classic example: Asian Disease Problem (Tversky & Kahneman, 1981)
+- Shows outcome frames produce different choices despite identical expected values
+
+### Matching Tasks
+- Participants adjust outcomes until indifferent between two options
+- Sensitive to how options are presented
+
+## 2. **Loss Aversion**
+
+### Gain-Loss Asymmetry Tasks
+- Offer choices between symmetric gains and losses
+- Measure willingness to accept (WTA) vs. willingness to pay (WTP)
+- Reveal 2:1 loss aversion ratio typically
+
+### Endowment Effect Paradigms
+- Give subjects objects, then measure selling price vs. buying price
+- Direct evidence of loss aversion in valuation
+
+### Prospect Theory Tasks
+- Present mixed gambles with both positive and negative outcomes
+- Identify loss aversion coefficients empirically
+
+## 3. **IIA (Independence of Irrelevant Alternatives) Violations**
+
+### Three-Option Choice Tasks
+- Present binary choices, then add third option
+- Decoy Effect: adding inferior option shifts preference toward original choice
+- Violation of IIA axiom
+
+### Menu-Choice Experiments
+- Vary choice sets and track preference reversals
+- Demonstrate context-dependent preferences
+
+### Preference Reversal Paradigms
+- Different elicitation methods (pricing vs. choice) produce different rankings
+- Shows choice context matters
+
+## 4. **Temporal/Hyperbolic Discounting**
+
+### Delay Discounting Tasks
+- Choose between smaller-sooner vs. larger-later rewards
+  - Example: $100 today vs. $110 in 1 week
+- Vary delays and amounts systematically
+- Fit discount functions (exponential vs. hyperbolic)
+
+### Intertemporal Choice Paradigms
+- Adjusting annuity tasks
+- Matching tasks for present value equivalence
+- Magnitude effect: larger amounts discounted less steeply
+
+### Sequence Effects Tasks
+- Sequence of outcomes (e.g., improving vs. declining sequences)
+- Tests peak-end rule and duration neglect
+
+## 5. **Multi-Method Integration**
+
+### Common Task Combinations
+| Phenomenon | Primary Tasks |
+|---|---|
+| **Range Dependence** | Lottery choice + Matching |
+| **Loss Aversion** | Endowment effect + Gain-loss choice |
+| **IIA Violations** | Decoy effect + Choice reversals |
+| **Discounting** | Delay discounting + Sequence tasks |
+
+### Supporting Methods
+- **Incentivized choices**: Real monetary payoffs enhance validity
+- **Within-subject designs**: Individual-level deviations from rationality
+- **Eye-tracking**: Measure attention to options
+- **Neuroscience measures**: fMRI, EEG during decision-making
+- **Field experiments**: Real-world consumption/investment decisions
+
+## Key Measurement Considerations
+
+- **Task incentives**: Real vs. hypothetical choices produce different patterns
+- **Presentation format**: Visual displays vs. description affect behavior
+- **Sample characteristics**: Risk attitudes vary by age, experience, expertise
+- **Repeated measures**: Learning and anchoring effects emerge over trials
+
+These tasks form the empirical foundation of behavioral economics, demonstrating systematic violations of expected utility theory and rational choice models.
